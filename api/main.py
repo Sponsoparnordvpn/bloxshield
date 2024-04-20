@@ -2,6 +2,7 @@ from flask import Flask, jsonify, request
 import json
 from datetime import datetime
 import os
+from functions import * 
 app = Flask(__name__)
 
 with open("config/bloxshield.json") as file:
