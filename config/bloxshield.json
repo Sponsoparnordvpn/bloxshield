@@ -1,0 +1,6 @@
+{
+    "api_key" : "shit",
+    "xor_key" : "6035a8ce0500e111198a0e2770bff702",
+    "hmac_key" : "64a6988ec0ecacbdf40ecf504e70b9a5f6174a8992c856c7ee22e1e0be03a8890412904b9d17a467d03559fe573c324271615dbcf191e4cfc259b5a01a3bb824",
+    "cypher_key" : "b0a53f38817689871d8989e7b47bef4a"
+}

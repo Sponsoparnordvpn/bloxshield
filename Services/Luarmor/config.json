@@ -1,0 +1,12 @@
+{
+    "api_key": "BS_fh1XVkIZoiPMFHREZY79PnVVHnbYvbFK",
+    "prefix": "LUA_",
+    "token_key": "78gWudMCENmiEGyC",
+    "hash_key": "51916aebe0b2bd15ed7b70d11d281ef3",
+    "encryption_key": "G6hEoH9AiQQF2O5nxMXbe9Uaz16xZXNO",
+    "responses": {
+        "is_premium": "luarsuck",
+        "not_premium": "luarbad",
+        "authenticated": "luarshit"
+    }
+}

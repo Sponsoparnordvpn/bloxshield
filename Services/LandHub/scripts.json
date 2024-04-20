@@ -1,0 +1,8 @@
+{
+    "173830303" : {
+        "name" : "Land Hub +",
+        "game" : "ID",
+        "src" : "./Services/LandHub/Scripts/script.lua",
+        "webhook" : "webhooklink"
+    }
+}

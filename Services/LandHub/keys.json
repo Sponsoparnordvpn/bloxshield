@@ -1,0 +1,56 @@
+{
+    "test_key": {
+        "hwid": "sponsoparnordvpn",
+        "expiration_date": "2024-05-10",
+        "note": "cool_key",
+        "premium": "false",
+        "discord_id": "None",
+        "total_resets": 3,
+        "total_executions": 4
+    },
+    "LUA_rudQNZ64p": {
+        "hwid": "haha",
+        "expiration_date": "2024-05-10",
+        "note": "Custom Note",
+        "premium": true,
+        "discord_id": "123456789",
+        "total_resets": 4,
+        "total_executions": 0
+    },
+    "LUA_iWyq9uNMfe5gj8DD": {
+        "hwid": "None",
+        "expiration_date": "2024-05-10",
+        "note": "Custom Note",
+        "premium": true,
+        "discord_id": "123456789",
+        "total_resets": 0,
+        "total_executions": 0
+    },
+    "LUA_OpAqrorqDNhfvkY3": {
+        "hwid": "None",
+        "expiration_date": "2024-05-10",
+        "note": "Custom Note",
+        "premium": true,
+        "discord_id": "123456789",
+        "total_resets": 0,
+        "total_executions": 0
+    },
+    "LUA_saWBgbJ0USUtnY2V": {
+        "hwid": "None",
+        "expiration_date": "2024-05-10",
+        "note": "Custom Note",
+        "premium": true,
+        "discord_id": "123456789",
+        "total_resets": 0,
+        "total_executions": 0
+    },
+    "LUA_BK2VW1gREwaVrN7t": {
+        "hwid": "None",
+        "expiration_date": "2024-05-10",
+        "note": "Custom Note",
+        "premium": true,
+        "discord_id": "123456789",
+        "total_resets": 0,
+        "total_executions": 0
+    }
+}
