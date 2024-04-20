@@ -5,7 +5,6 @@ from flask_limiter import Limiter
 from flask_limiter.util import get_remote_address
 import shutil
 from datetime import datetime
-from functions import *
 app = Flask(__name__)
 limiter = Limiter(
     get_remote_address,
@@ -23,7 +22,9 @@ with open("config/bloxshield.json") as file:
 def home():
     return "Welcome to BloxShield !"
 
-
+@app.route('/haha')
+def haha():
+    return "Bro is dumb"
 
 # Developer API
 @app.route('/dev/delete_service/', methods=['POST'])
